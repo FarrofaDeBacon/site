@@ -1,0 +1,1 @@
+const e={date:{all:"Todo o Período",custom:"Personalizado",last_month:"Mês Passado",last_week:"Semana Passada",last_year:"Ano Passado",select:"Selecionar Período",this_month:"Este Mês",this_week:"Esta Semana",this_year:"Este Ano",today:"Hoje",yesterday:"Ontem",period:"Período"}},a={filters:e};export{a as default,e as filters};
