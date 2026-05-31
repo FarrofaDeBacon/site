@@ -1,1 +1,0 @@
-import{Z as e,_t as t,ht as n}from"./DIf5fj7a.js";var r=new class{#e=t(null);get actions(){return e(this.#e)}setActions(e){n(this.#e,e,!0)}clearActions(){n(this.#e,null)}};export{r as t};
