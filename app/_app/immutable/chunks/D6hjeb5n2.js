@@ -1,0 +1,1 @@
+import{It as e,Rt as t,an as n,ft as r}from"./CQAHL9of.js";var i=new class{#e=n(t(null),`SettingsHeaderStore.#actions`);get actions(){return r(this.#e)}setActions(t){e(this.#e,t,!0)}clearActions(){e(this.#e,null)}};export{i as t};

@@ -1,0 +1,1 @@
+var e=`ArrowDown`,t=`ArrowLeft`,n=`ArrowRight`,r=`ArrowUp`,i=`Backspace`,a=`CapsLock`,o=`Control`,s=`Enter`,c=`Escape`,l=`Home`,u=`Meta`,d=`PageDown`,f=`PageUp`,p=`Shift`;function m(){}export{r as a,o as c,l as d,u as f,p as h,n as i,s as l,f as m,e as n,i as o,d as p,t as r,a as s,m as t,c as u};
