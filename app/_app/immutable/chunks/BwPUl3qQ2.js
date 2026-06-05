@@ -1,1 +1,0 @@
-var e={date:{all:`Todo o Período`,custom:`Personalizado`,last_month:`Mês Passado`,last_week:`Semana Passada`,last_year:`Ano Passado`,select:`Selecionar Período`,this_month:`Este Mês`,this_week:`Esta Semana`,this_year:`Este Ano`,today:`Hoje`,yesterday:`Ontem`,period:`Período`}},t={filters:e};export{t as default,e as filters};

@@ -1,1 +1,0 @@
-import{Q as e,gt as t,vt as n}from"./Dc0z3AHC.js";var r=new class{#e=n(null);get actions(){return e(this.#e)}setActions(e){t(this.#e,e,!0)}clearActions(){t(this.#e,null)}};export{r as t};

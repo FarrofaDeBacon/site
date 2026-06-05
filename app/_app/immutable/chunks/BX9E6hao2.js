@@ -1,1 +1,0 @@
-var e={emptyState:`Nenhum resultado encontrado`,emptyStateDescription:`Nenhum resultado. Altere a busca ou use o menu lateral.`,searchHint:`Pesquisar no manual (ex: DARF, RTD, Estratégias)...`,subtitle:`Encontre respostas e aprenda a usar todas as funcionalidades do TraderLog Pro.`,title:`Central de Ajuda`,topics:`Tópicos`},t={help:e};export{t as default,e as help};
